@@ -1,0 +1,39 @@
+.bg-yellow {
+  background-color: #f0a500;
+}
+.bg-blue {
+  background-color: #209ff1;
+}
+.m-0 {
+  margin: 0;
+}
+.mt-20 {
+  margin-top: 20px;
+}
+.w-50 {
+  width: 50%;
+}
+
+.img-padding {
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+}
+.ukuran-subjudul {
+  width: 25%;
+}
+.mb {
+  margin-bottom: 20px;
+}
+.align-center {
+  aspect-ratio: auto 25 / 25;
+}
+a {
+  text-decoration: none;
+}
+/* table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+} */
